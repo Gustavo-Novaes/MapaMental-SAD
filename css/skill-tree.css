@@ -1,0 +1,5 @@
+.tree-node.focus-path { border-color: var(--accent-2); }
+.tree-node.career-node { width:205px; border-radius:15px; background:linear-gradient(145deg,rgba(57,217,138,.08),rgba(17,23,34,.98)); }
+.light .tree-node.career-node { background:linear-gradient(145deg,rgba(57,217,138,.08),rgba(255,255,255,.98)); }
+.tree-node.career-node .node-name { font-size:13px; }
+.tree-node.career-node .node-period { color:var(--green); }
